@@ -1,4 +1,4 @@
-# 🧠 VIP-Face-Recognition  
+# 🧔 VIP-Face-Recognition  
 A deep learning project leveraging **Metric Learning** and **Triplet Loss** for robust face recognition across 31 celebrities.
 
 ---
